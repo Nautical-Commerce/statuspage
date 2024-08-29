@@ -27,7 +27,7 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: Nautical Commerce ↗
+    - title: Website ↗
       href: https://www.nauticalcommerce.com
     # - title: GitHub
     #   href: https://github.com/$OWNER/$REPO
