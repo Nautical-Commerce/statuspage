@@ -7,6 +7,10 @@ sites:
     url: https://www.nauticalcommerce.com
   - name: Nautical Guide
     url: https://guide.nauticalcommerce.com
+  - name: Hosted Checkout
+    url: https://checkout.nauticalcommerce.com/version
+  - name: Data Ingestion API
+    url: https://ingestion-api.nauticalcommerce.com/
   # - name: Test Broken Site
   #   url: https://thissitedoesnotexist.koj.co
   # - name: IPv6 test
