@@ -3,17 +3,17 @@ owner: nautical-commerce # Your GitHub organization or username, where this repo
 repo: statuspage # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Website
+    url: https://www.nauticalcommerce.com
+  - name: Nautical Guide
+    url: https://guide.nauticalcommerce.com
+  # - name: Test Broken Site
+  #   url: https://thissitedoesnotexist.koj.co
+  # - name: IPv6 test
+  #   url: forwardemail.net
+  #   port: 80
+  #   check: "tcp-ping"
+  #   ipv6: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -22,13 +22,14 @@ status-website:
   baseUrl: /statuspage
   logoUrl: https://avatars.githubusercontent.com/u/63327933
   name: Nautical Commerce
-  introTitle: "**Your** marketplace operating system."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  theme: ocean
+  #introTitle: "**Your** marketplace operating system."
+  #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
-    - title: Nautical
-      href: https://www.nauticalcommerce.com/
+    - title: Nautical Commerce ↗
+      href: https://www.nauticalcommerce.com
     # - title: GitHub
     #   href: https://github.com/$OWNER/$REPO
 
