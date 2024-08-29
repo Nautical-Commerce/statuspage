@@ -23,8 +23,8 @@ status-website:
   logoUrl: https://avatars.githubusercontent.com/u/63327933
   name: Nautical Commerce
   theme: ocean
-  #introTitle: "**Your** marketplace operating system."
-  #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  # introTitle: "**Your** marketplace operating system."
+  # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
