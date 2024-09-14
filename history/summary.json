@@ -22,18 +22,20 @@
     "url": "https://guide.nauticalcommerce.com",
     "icon": "https://icons.duckduckgo.com/ip3/guide.nauticalcommerce.com.ico",
     "slug": "nautical-guide",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 233,
-    "timeDay": 226,
-    "timeWeek": 250,
-    "timeMonth": 233,
-    "timeYear": 233,
-    "dailyMinutesDown": {}
+    "time": 261,
+    "timeDay": 550,
+    "timeWeek": 328,
+    "timeMonth": 261,
+    "timeYear": 261,
+    "dailyMinutesDown": {
+      "2024-09-14": 0
+    }
   },
   {
     "name": "Hosted Checkout",
