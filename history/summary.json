@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 273,
-    "timeDay": 264,
-    "timeWeek": 250,
-    "timeMonth": 273,
-    "timeYear": 273,
+    "time": 271,
+    "timeDay": 204,
+    "timeWeek": 246,
+    "timeMonth": 271,
+    "timeYear": 271,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 240,
-    "timeDay": 202,
-    "timeWeek": 244,
-    "timeMonth": 240,
-    "timeYear": 240,
+    "time": 238,
+    "timeDay": 192,
+    "timeWeek": 248,
+    "timeMonth": 238,
+    "timeYear": 238,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 175,
-    "timeDay": 148,
-    "timeWeek": 155,
-    "timeMonth": 175,
-    "timeYear": 175,
+    "time": 171,
+    "timeDay": 73,
+    "timeWeek": 132,
+    "timeMonth": 171,
+    "timeYear": 171,
     "dailyMinutesDown": {}
   },
   {
@@ -59,18 +59,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ingestion-api.nauticalcommerce.com.ico",
     "slug": "data-ingestion-api",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.97%",
+    "uptimeDay": "56.84%",
+    "uptimeWeek": "93.83%",
+    "uptimeMonth": "97.97%",
+    "uptimeYear": "97.97%",
     "time": 155,
-    "timeDay": 131,
-    "timeWeek": 150,
+    "timeDay": 0,
+    "timeWeek": 154,
     "timeMonth": 155,
     "timeYear": 155,
     "dailyMinutesDown": {
-      "2024-09-19": 0
+      "2024-09-20": 19,
+      "2024-09-19": 602
     }
   }
 ]
