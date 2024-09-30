@@ -3,9 +3,9 @@ owner: nautical-commerce # Your GitHub organization or username, where this repo
 repo: statuspage # The name of this repository
 
 sites:
-  - name: Website
+  - name: Website (www.nauticalcommerce.com)
     url: https://www.nauticalcommerce.com
-  - name: Nautical Guide
+  - name: Nautical Guide (guide.nauticalcommerce.com)
     url: https://guide.nauticalcommerce.com
   - name: Hosted Checkout
     url: https://checkout.nauticalcommerce.com/version
