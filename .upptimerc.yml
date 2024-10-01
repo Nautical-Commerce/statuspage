@@ -10,7 +10,7 @@ sites:
   - name: Hosted Checkout
     url: https://checkout.nauticalcommerce.com/version
   - name: Data Ingestion API
-    url: https://ingestion-api.nauticalcommerce.com/
+    url: https://ingestion-api.mpconsole.com/
   # - name: Test Broken Site
   #   url: https://thissitedoesnotexist.koj.co
   # - name: IPv6 test
@@ -35,6 +35,5 @@ status-website:
       href: https://www.nauticalcommerce.com
     # - title: GitHub
     #   href: https://github.com/$OWNER/$REPO
-
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
