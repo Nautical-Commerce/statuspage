@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 233,
     "timeDay": 278,
-    "timeWeek": 231,
+    "timeWeek": 222,
     "timeMonth": 233,
     "timeYear": 233,
     "dailyMinutesDown": {}
@@ -40,7 +40,7 @@
     "url": "https://checkout.nauticalcommerce.com/version",
     "icon": "https://icons.duckduckgo.com/ip3/checkout.nauticalcommerce.com.ico",
     "slug": "hosted-checkout",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -48,10 +48,12 @@
     "uptimeYear": "100.00%",
     "time": 164,
     "timeDay": 145,
-    "timeWeek": 154,
+    "timeWeek": 163,
     "timeMonth": 161,
     "timeYear": 164,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-08": 0
+    }
   },
   {
     "name": "Data Ingestion API",
@@ -59,14 +61,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/ingestion-api.mpconsole.com.ico",
     "slug": "data-ingestion-api",
     "status": "up",
-    "uptime": "69.57%",
+    "uptime": "70.13%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "92.48%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "60.69%",
-    "uptimeYear": "69.57%",
+    "uptimeYear": "70.13%",
     "time": 157,
     "timeDay": 168,
-    "timeWeek": 163,
+    "timeWeek": 169,
     "timeMonth": 161,
     "timeYear": 157,
     "dailyMinutesDown": {
