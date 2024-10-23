@@ -10,7 +10,7 @@ sites:
   - name: Hosted Checkout
     url: https://checkout.nauticalcommerce.com/version
   - name: Data Ingestion API
-    url: https://ingestion-api.mpconsole.com/
+    url: https://ingestion.mpconsole.com/
   # - name: Test Broken Site
   #   url: https://thissitedoesnotexist.koj.co
   # - name: IPv6 test
