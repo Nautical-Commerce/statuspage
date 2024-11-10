@@ -40,19 +40,19 @@
     "url": "https://checkout.nauticalcommerce.com/version",
     "icon": "https://icons.duckduckgo.com/ip3/checkout.nauticalcommerce.com.ico",
     "slug": "hosted-checkout-production",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 318,
-    "timeDay": 224,
-    "timeWeek": 318,
-    "timeMonth": 318,
-    "timeYear": 318,
+    "status": "up",
+    "uptime": "99.80%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 309,
+    "timeDay": 236,
+    "timeWeek": 309,
+    "timeMonth": 309,
+    "timeYear": 309,
     "dailyMinutesDown": {
-      "2024-11-10": 0
+      "2024-11-10": 7
     }
   },
   {
@@ -79,18 +79,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ingestion.mpconsole.com.ico",
     "slug": "data-ingestion-api-production",
     "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
+    "uptime": "99.65%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.65%",
     "time": 194,
     "timeDay": 172,
     "timeWeek": 194,
     "timeMonth": 194,
     "timeYear": 194,
     "dailyMinutesDown": {
-      "2024-11-10": 6
+      "2024-11-10": 13
     }
   },
   {
