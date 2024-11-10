@@ -76,18 +76,20 @@
     "url": "https://ingestion.mpconsole.com/",
     "icon": "https://icons.duckduckgo.com/ip3/ingestion.mpconsole.com.ico",
     "slug": "data-ingestion-api-production",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 187,
-    "timeDay": 120,
-    "timeWeek": 187,
-    "timeMonth": 187,
-    "timeYear": 187,
-    "dailyMinutesDown": {}
+    "time": 194,
+    "timeDay": 172,
+    "timeWeek": 194,
+    "timeMonth": 194,
+    "timeYear": 194,
+    "dailyMinutesDown": {
+      "2024-11-10": 0
+    }
   },
   {
     "name": "Nautical Guide (guide.nauticalcommerce.com)",
