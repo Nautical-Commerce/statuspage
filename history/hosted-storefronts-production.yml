@@ -1,7 +1,7 @@
 url: https://default.mynauticalstore.com/version
-status: up
-code: 200
-responseTime: 165
-lastUpdated: 2025-01-23T23:02:07.688Z
+status: down
+code: 503
+responseTime: 175
+lastUpdated: 2025-01-24T05:53:41.698Z
 startTime: 2024-11-07T15:58:17.624Z
 generator: Upptime <https://github.com/upptime/upptime>
