@@ -11,12 +11,9 @@ sites:
     url: https://checkout.nauticalcommerce.com/version
   - name: Admin Dashboards - Production
     url: https://default.mpconsole.com/version
-  - name: Data Ingestion API - Production
-    url: https://ingestion.mpconsole.com/
   - name: Nautical Guide (guide.nauticalcommerce.com)
     url: https://guide.nauticalcommerce.com
-  
-  
+
   # - name: Test Broken Site
   #   url: https://thissitedoesnotexist.koj.co
   # - name: IPv6 test
@@ -41,6 +38,5 @@ status-website:
       href: https://www.nauticalcommerce.com
     # - title: GitHub
     #   href: https://github.com/$OWNER/$REPO
-
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
