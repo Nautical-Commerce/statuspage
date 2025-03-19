@@ -76,28 +76,6 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Data Ingestion API - Production",
-    "url": "https://ingestion.mpconsole.com/",
-    "icon": "https://icons.duckduckgo.com/ip3/ingestion.mpconsole.com.ico",
-    "slug": "data-ingestion-api-production",
-    "status": "up",
-    "uptime": "98.99%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "98.99%",
-    "time": 229,
-    "timeDay": 361,
-    "timeWeek": 340,
-    "timeMonth": 294,
-    "timeYear": 229,
-    "dailyMinutesDown": {
-      "2025-03-19": 13,
-      "2024-11-11": 873,
-      "2024-11-10": 1028
-    }
-  },
-  {
     "name": "Nautical Guide (guide.nauticalcommerce.com)",
     "url": "https://guide.nauticalcommerce.com",
     "icon": "https://icons.duckduckgo.com/ip3/guide.nauticalcommerce.com.ico",
