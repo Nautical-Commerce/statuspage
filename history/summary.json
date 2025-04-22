@@ -4,9 +4,9 @@
     "url": "https://api.mpconsole.com/about",
     "icon": "https://icons.duckduckgo.com/ip3/api.mpconsole.com.ico",
     "slug": "api-production",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 209,
     "timeMonth": 211,
     "timeYear": 217,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-22": 0
+    }
   },
   {
     "name": "Hosted Storefronts - Production",
