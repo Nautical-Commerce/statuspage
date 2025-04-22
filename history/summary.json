@@ -4,19 +4,19 @@
     "url": "https://api.mpconsole.com/about",
     "icon": "https://icons.duckduckgo.com/ip3/api.mpconsole.com.ico",
     "slug": "api-production",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 217,
-    "timeDay": 260,
-    "timeWeek": 209,
-    "timeMonth": 211,
+    "timeDay": 220,
+    "timeWeek": 205,
+    "timeMonth": 210,
     "timeYear": 217,
     "dailyMinutesDown": {
-      "2025-04-22": 0
+      "2025-04-22": 9
     }
   },
   {
