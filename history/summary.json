@@ -11,8 +11,8 @@
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 217,
-    "timeDay": 162,
-    "timeWeek": 209,
+    "timeDay": 176,
+    "timeWeek": 208,
     "timeMonth": 212,
     "timeYear": 217,
     "dailyMinutesDown": {
@@ -27,15 +27,15 @@
     "slug": "hosted-storefronts-production",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.24%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.89%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
-    "time": 189,
-    "timeDay": 178,
-    "timeWeek": 181,
+    "time": 188,
+    "timeDay": 167,
+    "timeWeek": 180,
     "timeMonth": 181,
-    "timeYear": 189,
+    "timeYear": 188,
     "dailyMinutesDown": {
       "2025-05-13": 11,
       "2025-01-24": 6
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 303,
-    "timeDay": 288,
-    "timeWeek": 293,
-    "timeMonth": 323,
-    "timeYear": 303,
+    "time": 302,
+    "timeDay": 253,
+    "timeWeek": 296,
+    "timeMonth": 324,
+    "timeYear": 302,
     "dailyMinutesDown": {
       "2025-02-27": 22
     }
@@ -73,9 +73,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 185,
-    "timeDay": 249,
-    "timeWeek": 226,
-    "timeMonth": 209,
+    "timeDay": 142,
+    "timeWeek": 216,
+    "timeMonth": 207,
     "timeYear": 185,
     "dailyMinutesDown": {}
   },
@@ -90,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 223,
-    "timeDay": 204,
-    "timeWeek": 275,
-    "timeMonth": 243,
-    "timeYear": 223,
+    "time": 222,
+    "timeDay": 206,
+    "timeWeek": 255,
+    "timeMonth": 245,
+    "timeYear": 222,
     "dailyMinutesDown": {}
   }
 ]
