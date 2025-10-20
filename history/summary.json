@@ -91,9 +91,9 @@
     "url": "https://guide.nauticalcommerce.com",
     "icon": "https://icons.duckduckgo.com/ip3/guide.nauticalcommerce.com.ico",
     "slug": "nautical-guide-guide-nauticalcommerce-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
@@ -103,6 +103,7 @@
     "timeMonth": 254,
     "timeYear": 244,
     "dailyMinutesDown": {
+      "2025-10-20": 0,
       "2025-10-09": 6,
       "2025-09-01": 6
     }
